@@ -201,12 +201,11 @@ body {
 		/* forsidensbillede i mobil v*/
 
 .forsiden{
-	background-image:url("images/b1.jpg");
+	background-image:url("images/b11.jpg");
 	background-size: cover; 
 	background-repeat: no-repeat;
 	margin-bottom: 0px;
 	background-position: center;
-	background-color:#BDDBC9;
 	height: 80vh;
 	display: flex;
     align-items: center;
@@ -266,10 +265,9 @@ button.knap {
 	}
 
 .table{
-	margin: 2% 10%;
-    background-color: #d1d1d1;
-    /*padding: 3%;*/
-	border: 2px solid #075B01;
+	margin: 2% 8%;
+    background-color: white;
+   	border: 1px solid #5fa931;
 	text-align: center;
 }
 
@@ -441,6 +439,7 @@ h6{
 	/* baggrundsbillede */
 	
 	.forsiden{
+	background-image:url("images/b1.jpg");
 	background-size: cover; 
 	background-repeat: no-repeat;
 	margin-bottom: 0px;
